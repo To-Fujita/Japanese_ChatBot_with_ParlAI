@@ -19,7 +19,7 @@
     "is_debug": false,
     "datapath": "C:\\Users\\halbo\\Desktop\\Temp\\Python\\ParlAI-master\\data",
     "model": "transformer/generator",
-    "model_file": "./models/JP_030-1/model",
+    "model_file": "./models/JP_030-3/model",
     "init_model": "zoo:bert/japanese_bert/model",
     "dict_class": "parlai.core.dict:DictionaryAgent",
     "evaltask": null,
@@ -61,7 +61,7 @@
     "mutators": null,
     "fromfile_datapath": "./data/JP_data/Talk_List_000",
     "fromfile_datatype_extension": true,
-    "embedding_size": 128,
+    "embedding_size": 64,
     "n_layers": 8,
     "ffn_size": 512,
     "dropout": 0.1,
@@ -133,7 +133,7 @@
     "special_tok_lst": null,
     "gpu": -1,
     "no_cuda": false,
-    "dict_file": "./models/JP_030-1/model.dict",
+    "dict_file": "./models/JP_030-3/model.dict",
     "dict_initpath": null,
     "dict_language": "english",
     "dict_max_ngram_size": -1,
@@ -164,7 +164,7 @@
         "fromfile_datapath": "./data/JP_data/Talk_List_000",
         "fromfile_datatype_extension": true,
         "model": "transformer/generator",
-        "model_file": "./models/JP_030-1/model",
+        "model_file": "./models/JP_030-3/model",
         "multitask_weights": [
             1.0,
             3.0,
@@ -187,7 +187,7 @@
         "dict_lower": true,
         "dict_tokenizer": "bpe",
         "dropout": 0.1,
-        "embedding_size": 128,
+        "embedding_size": 64,
         "ffn_size": 512,
         "fp16": true,
         "fp16_impl": "mem_efficient",
@@ -221,5 +221,5 @@
         "warmup_updates": 100,
         "weight_decay": 0.01
     },
-    "starttime": "May29_16-14"
+    "starttime": "Jun11_16-30"
 }

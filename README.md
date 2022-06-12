@@ -9,6 +9,7 @@ This is a Japanese chat bot based on the ParlAI by Facebook. You can communicate
 - Browser: Microsoft Edge or Google Chrome
 
 ## 3. Demo
+![ChatBot_001](https://to-fujita.github.io/Images/Rinna_01.png "Images for ChatBot")
 
 ## 4. Details
 I have confirmed this Python Script on the above conditions only. I will show you below how to execute the Python Script.

@@ -45,6 +45,8 @@ In this time, I used the "Dialog Element" in HTML. The Safari and the FireFox ar
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Python](https://www.python.org/)
 - [VOICEVOX](https://voicevox.hiroshiba.jp/) : 無料で使える中品質なテキスト読み上げソフトウェア
+- [ChatBot_with_ParlAI](https://github.com/To-Fujita/ChatBot_with_ParlAI)
+- [Japanese ChatBot with GPT-2 Rinna](https://github.com/To-Fujita/ChatBot_with_GPT-2_Rinna)
 
 ## 6. License
 - Programs: MIT

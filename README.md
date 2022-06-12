@@ -33,7 +33,7 @@ or
 
 Please open the above file on the VS Code, then click the "Run" and the "Start Debugging" or the "Run Without Debugging". Wait a few minutes, it will be displayed "*Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)" at the Terminal. Then, after open the Browser, please input "http://127.0.0.1:5000". You can talk with the Chat Bot by keybord and/or voice.
   
-If this script is not working well, please check your setting for system path and/or check your Python environment. When you run the Rinna for the first time, it takes a few minutes to download various files.
+If this script is not working well, please check your setting for system path and/or check your Python environment. When you run the "main_JP_Voicevox_tiny.py", it takes some second to receive the reply from the ChatBot.
   
 This Chat Bot is created in following concepts.
 

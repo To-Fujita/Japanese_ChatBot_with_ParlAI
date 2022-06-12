@@ -1,6 +1,6 @@
 # Japanese_ChatBot_with_ParlAI
 ## 1. Description
-This is a Japanese chat bot based on the ParlAI by Facebook. You can communicate to the chat bot by keyboard and/or voice.  If you want to enjoy conversation in English, please check the "[ChatBot_with_ParlAI](https://github.com/To-Fujita/ChatBot_with_ParlAI)".
+This is a Japanese chat bot based on the ParlAI by Facebook. You can communicate to the chat bot by keyboard and/or voice.  If you want to enjoy conversation in English, please check the "[ChatBot_with_ParlAI](https://github.com/To-Fujita/ChatBot_with_ParlAI)". The [Japanese ChatBot with GPT-2 Rinna](https://github.com/To-Fujita/ChatBot_with_GPT-2_Rinna) is also available.
 
 ## 2. Operational Environment
 - Windows 10/11 64-bit
@@ -14,7 +14,7 @@ This is a Japanese chat bot based on the ParlAI by Facebook. You can communicate
 I have confirmed this Python Script on the above conditions only. I will show you below how to execute the Python Script.
 
 ### 4-1. Preparation
-(a) Download and unzip the file.  
+(a) Download and unzip the files.  
 Please download following files and put the unzipped folders under the system path passed.
 - [ParlAI](https://github.com/facebookresearch/parlai): A framework for training and evaluating AI models on a variety of openly available
 - Japanese_ChatBot_with_ParlAI: Please download from above "Code".

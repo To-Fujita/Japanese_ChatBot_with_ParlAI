@@ -25,7 +25,7 @@ import wave
 agent = ''
 human_agent = ''
 opt_org = ''
-file_path = './ChatBot_JP_tiny/'            # 貴方の環境に合わせてパス設定を変更してください。
+file_path = './Japanese_ChatBot_with_ParlAI-main/'            # 貴方の環境に合わせてパス設定を変更してください。
 CSV_file = file_path + 'data/Talk_List.csv'
 news_file = file_path + 'data/News.csv'
 tenki_file = file_path + 'data/Tenki_jp.csv'

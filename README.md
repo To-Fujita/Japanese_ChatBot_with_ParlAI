@@ -9,6 +9,10 @@ This is a Japanese chat bot based on the ParlAI by Facebook. You can communicate
 - Browser: Microsoft Edge or Google Chrome
 
 ## 3. Demo
+Sample the Japanese conversation.
+![ChatBot_000](https://to-fujita.github.io/Images/Tiny_000.png "Images for ChatBot")
+  
+Sample for asking the weather forcast.
 ![ChatBot_001](https://to-fujita.github.io/Images/Tiny_001.png "Images for ChatBot")
 
 ## 4. Details

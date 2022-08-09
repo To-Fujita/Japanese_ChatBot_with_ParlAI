@@ -1,7 +1,7 @@
 # ChatBot with ParlAI and VoiceVox, "main_JP_Voicevox_tiny.py" by F. Fujita on 2022/06/30
 
 import sys
-sys.path.append('./ParlAI-main/')
+sys.path.append('./ParlAI-main/')                   # Please set the PATH name according to your environment.
 
 import random
 import difflib
@@ -25,7 +25,7 @@ import wave
 agent = ''
 human_agent = ''
 opt_org = ''
-file_path = './Japanese_ChatBot_with_ParlAI-main/'            # 貴方の環境に合わせてパス設定を変更してください。
+file_path = './Japanese_ChatBot_with_ParlAI-main/'       # Please set the PATH name according to your environment.
 CSV_file = file_path + 'data/Talk_List.csv'
 news_file = file_path + 'data/News.csv'
 tenki_file = file_path + 'data/Tenki_jp.csv'
